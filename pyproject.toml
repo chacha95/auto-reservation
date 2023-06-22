@@ -14,6 +14,7 @@ flake8 = "^6.0.0"
 isort = "^5.11.4"
 black = "^22.12.0"
 selenium = "*"
+pyautogui = "^0.9.54"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.23.2"
